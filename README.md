@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @omunozRNA
+- 👀 I’m interested in learning how to comb through sequencing dataset
